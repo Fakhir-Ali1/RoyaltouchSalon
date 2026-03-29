@@ -436,7 +436,7 @@ ul { list-style: none; }
   color: var(--off-white);
   margin-bottom: 28px;
 }
-.pricing-price sup { font-size: 1.1rem; vertical-align: top; margin-top: 10px; color: var(--gold); }
+.pricing-price sup { font-size: 1.8rem; vertical-align: top; margin-top: 10px; color: var(--gold); }
 .pricing-price span { font-size: 0.85rem; color: var(--text-muted); font-family: var(--font-body); }
 .pricing-list { margin-bottom: 32px; }
 .pricing-list li {
