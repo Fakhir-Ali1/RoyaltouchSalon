@@ -555,23 +555,23 @@ ul { list-style: none; }
   z-index: 2;
 }
 .gallery-item:nth-child(1) .gallery-inner {
-  background-image: url("img/man-getting-fresh-haircut.jpg");
+  background-image: url("./img/man-getting-fresh-haircut.webp");
 }
 
 .gallery-item:nth-child(2) .gallery-inner {
-  background-image: url("img/hair\ color.jpg");
+  background-image: url("./img/—Pngtree—barber\ cutting\ client\ hair\ in_19635393.jpg");
 }
 
 .gallery-item:nth-child(3) .gallery-inner {
-  background-image: url("img/Ge\ \ groom.png");
+  background-image: url("./img/AI\ Eraser_image.webp");
 }
 
 .gallery-item:nth-child(4) .gallery-inner {
-  background-image: url("img/AI\ Eraser_image\ \(1\).png");
+  background-image: url("./img/nate-johnston-tgPrIYnW3g4-unsplash.webp");
 }
 
 .gallery-item:nth-child(5) .gallery-inner {
-  background-image: url("img/facial.jpg");
+  background-image: url("./img/facial.webp");
 }
 .gallery-inner i { font-size: 2.5rem; color: rgba(201,169,110,0.3); transition: var(--transition); }
 .gallery-inner span { font-size: 0.8rem; letter-spacing: 0.1em; text-transform: uppercase; color: var(--text-muted); transition: var(--transition); }
